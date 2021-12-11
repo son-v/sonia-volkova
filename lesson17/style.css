@@ -1,0 +1,15 @@
+img{
+    max-width: 250px;
+    max-height: 250px;
+    width: 100%;
+}
+.block-top{
+    position: relative;
+    left: 385px;
+    width: 55px;
+    background-color: purple;
+    color: white;
+}
+.card-body{
+    height: 400px;
+}
