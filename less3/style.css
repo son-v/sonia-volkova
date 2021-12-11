@@ -1,0 +1,26 @@
+.button{
+    border: 3px solid black;
+    background-color: aqua;
+    width: 200px;
+    height: 50px;
+    padding: 20px;
+    text-align: center;
+    margin: 450px;
+    padding: 5px;
+    
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+table{
+    width: 900px;
+    height: 500px;
+    border-collapse: collapse;
+   
+}
+.left table{
+    width: 300px;
+}
