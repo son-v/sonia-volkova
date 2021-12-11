@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+
+
+img{
+    width: 300px;
+}
+body{
+   background-color: mediumpurple;
+}
+img{
+border-radius: 50%;
+}
+p{
+    color: white;}
+ul{
+list-style-type: square;
+}
+p{
+    font-family: 'Playfair Display', serif;
+}
